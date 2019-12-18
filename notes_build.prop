@@ -1,0 +1,10 @@
+ro.build.product=K7000
+ro.product.board=
+ro.board.platform=mt6737m
+ro.product.model=K7000
+ro.product.brand=OUKITEL
+ro.product.name=K7000
+ro.product.device=K7000
+ro.mediatek.platform=MT6737
+ro.mediatek.project.path=device/haocheng/hct6737m_65_m0
+ro.product.cpu.abi=arm64-v8a
